@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+        "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>
+    <!-- The logical view name "book/list" is mapped to the corresponding body 
+        attribute of the list.jspx view to display.  Then in defaults.jspx 
+        <tiles:insertAttribute name="body"/> renders body of list view with list.jspx-->
+    <definition extends="default" name="book/list">
+        <put-attribute name="body" value="/WEB-INF/views/book/list.jspx" />
+    </definition>
+    <definition extends="default" name="book/show">
+        <put-attribute name="body" value="/WEB-INF/views/book/show.jspx" />
+    </definition>
+    <definition extends="default" name="book/update">
+        <put-attribute name="body" value="/WEB-INF/views/book/edit.jspx" />
+    </definition>
+    <definition extends="default" name="book/create">
+        <put-attribute name="body" value="/WEB-INF/views/book/edit.jspx" />
+    </definition>
+</tiles-definitions>

@@ -1,0 +1,12 @@
+insert into BOOK (category_name, isbn, title, publisher, price) values ('Poetry', '978-1933517407', 'Bluets', 'Wave Books', 13.69);
+insert into BOOK (category_name, isbn, title, publisher, price) values ('Science Fiction', '978-0060512750', 'The Dispossessed', 'Harper Collins', 11.19);
+insert into BOOK (category_name, isbn, title, publisher, price) values ('Essays', '978-0060927516', 'Testaments Betrayed', 'Harper Perennial', 15.49);
+insert into BOOK (category_name, isbn, title, publisher, price) values ('Literary Fiction', '978-0679760801', 'The Master and Margarita', 'Vintage', 13.87);
+insert into BOOK (category_name, isbn, title, publisher, price) values ('Literary Fiction', '978-0140096934', 'The Book of Laughter and Forgetting', 'Penguin Books', 16.99);
+insert into BOOK (category_name, isbn, title, publisher, price) values ('Drama', '978-2701151410', 'La Cantatrice Chauve', 'Belin Education', 7.98);
+insert into BOOK (category_name, isbn, title, publisher, price) values ('Poetry', '978-0199554010', 'Selected Poems', 'Oxford University Press', 7.98);
+insert into BOOK (category_name, isbn, title, publisher, price) values ('Literary Fiction', '978-0156439619', 'If on a winter\'s night a traveler', 'Mariner Books', 12.69);
+insert into BOOK (category_name, isbn, title, publisher, price) values ('Literary Fiction', '978-0316769495', 'Franny and Zooey', 'Little, Brown and Company', 9.29);
+insert into BOOK (category_name, isbn, title, publisher, price) values ('Poetry', '978-0872866355', 'Tender Buttons', 'City Lights Publishers', 8.49);
+insert into BOOK (category_name, isbn, title, publisher, price) values ('Poetry', '978-0996007931', 'Claire de Terre', 'Commonwealth Books', 19.95);
+insert into BOOK (category_name, isbn, title, publisher, price) values ('Science Fiction', '978-0441007318', 'The Left Hand of Darkness', 'Commonwealth Books', 13.39);

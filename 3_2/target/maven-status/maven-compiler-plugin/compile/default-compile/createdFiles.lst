@@ -1,0 +1,11 @@
+cscie57/assignment3_2/domain/Book.class
+cscie57/assignment3_2/web/BookController.class
+cscie57/assignment3_2/services/BookServiceImpl.class
+cscie57/assignment3_2/services/BookService.class
+cscie57/assignment3_2/util/DateFormatter.class
+cscie57/assignment3_2/web/SecurityController.class
+cscie57/assignment3_2/repository/BookRepository.class
+cscie57/assignment3_2/util/UrlUtil.class
+cscie57/assignment3_2/util/BookGrid.class
+cscie57/assignment3_2/util/Message.class
+cscie57/assignment3_2/init/WebInitializer.class
